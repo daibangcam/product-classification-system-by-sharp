@@ -1,8 +1,8 @@
 # product-classification-system-by-sharp
  
- V1: C# + laptop + arduino
- 
  V2: python + pi
+
+ V1: C# + laptop + arduino
  
 ## Contact
 
@@ -18,6 +18,6 @@ Website: http://hano.cf/
 
 Watch it on YouTube 
 
-[Product classification system by Sharp V1](https://youtu.be/d56tqMDrdRA)
-
 [Product classification system by Sharp V2](https://youtu.be/5-hxRq7Euq4)
+
+[Product classification system by Sharp V1](https://youtu.be/d56tqMDrdRA)
