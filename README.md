@@ -1,6 +1,7 @@
 # product-classification-system-by-sharp
  
  V1: C# + laptop + arduino
+ 
  V2: python + pi
  
 ## Contact
